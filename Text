@@ -1,1 +1,8 @@
 Hello Thiss is Pranav
+git --version
+git status
+git log
+git add filename
+git commit -m "Tags"
+git pull
+git push
